@@ -10,8 +10,8 @@ This repository contains the initial steps of my Python learning journey. The fo
 * **Conditional Logic:** Early experimentation with `if-else` blocks to create interactive prompts.
 
 ## Files in this Module
-* **28july2025.ipynb**: An interactive script that collects user information (Name, Institute, Department) and prints a formatted bio. It includes logic to distinguish between "Student" and "Professional" roles.
-* **`code.py`**: A collection of utility scripts including:
+* **'1_User_Profiles.ipynb'**: An interactive script that collects user information (Name, Institute, Department) and prints a formatted bio. It includes logic to distinguish between "Student" and "Professional" roles.
+* **`1_Basic_Math_Operations.py`**: A collection of utility scripts including:
     * Sum of two integers.
     * Calculation of the area of a square.
     * Average of floating-point numbers.
